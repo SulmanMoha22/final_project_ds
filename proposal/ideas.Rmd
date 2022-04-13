@@ -8,11 +8,15 @@ output: html_notebook
 ## Section 1. Introduction
 
 Include a brief **introduction or motivation** here
+I want to understand the corrilation between comic book movies, their budget, and thier prior popularity contributes to a movies success.
 
 ## Section 2. Data Analysis Plan
 
 List any **initial questions** you plan to explore in this project. 
+I will compile a list of comic book charcters, rank them on how popular their comics are, how much of a budget did thier movie have, their box office success, and thier rotten tomatoe ratings. 
 
 ## Section 3. Data
 
 Include a brief **description of your dataset** (source, available attributes, format, etc.)
+Rating will be pulled from rotten tomatoes.com 
+IMDB will give its budget and profits. 
